@@ -107,7 +107,10 @@ body {
 }
 
 
-
+.trumpBrush9Small, .trumpBrush9Medium, .trumpBrush9Large, #trumpBrush9Menu {
+	background: url(brushes/amelia.png);
+	background-size:100%;
+}
 
 
 
@@ -170,7 +173,10 @@ body {
 	width: 39px;
 	height: 39px;
 }
-
+#trumpBrush9Menu {
+	width: 39px;
+	height: 39px;
+}
 
 
 
@@ -220,6 +226,10 @@ body {
 }
 
 
+.trumpBrush9Small {
+	width: 27px;
+	height: 36px;
+}
 
 
 
@@ -263,6 +273,11 @@ body {
 }
 
 .trumpBrush8Medium {
+	width: 48px;
+	height: 64px;
+}
+
+.trumpBrush9Medium {
 	width: 48px;
 	height: 64px;
 }
@@ -315,6 +330,11 @@ body {
 }
 
 
+
+.trumpBrush9Large {
+	width: 71px;
+	height: 96px;
+}
 
 
 
